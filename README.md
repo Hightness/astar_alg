@@ -1,1 +1,3 @@
-# astar_alg
+per avviare, all'interno della cartella jar, eseguire java -jar astar.jar
+
+Una volta avviato il programma, si potra' scegliere tra i 2 giochi implementati (onegame, labirinthgame) e la dimensione iniziale del campo di gioco (si consiglia dimensioni < 5 per onegame, e dimensioni almeno >= 10 per labirinthgame). Avviato il gioco, premendo invio si puo' passare al prossimo problema, mentre premendo "n" si puo' scorrere la soluzione trovata da astar. Premendo "a", il programma provera' matrici sempre piu' grandi in maniera automatica, ripremendo "a" il comportamento automatico si blocca. Premendo "v", si puo' vedere la media di esecuzione (in secondi) dei 3 algoritmi (astar, dijkstra e bruteforce)
